@@ -14,7 +14,7 @@ sections:
 
       Impara cose nuove, risolvi problemi e scopri le ultime tecnologie.
     actions:
-      - label: Get started
+      - label: Blog
         altText: ''
         url: /blog
         showIcon: false
