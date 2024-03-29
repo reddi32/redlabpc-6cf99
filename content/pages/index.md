@@ -242,7 +242,8 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: >-
+        https://www.canva.com/design/DAGA58cm7s8/LCJf3rsHhfBkPC1rV5TR_g/edit?utm_content=DAGA58cm7s8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
       controls: false
       aspectRatio: '16:9'
       styles:
