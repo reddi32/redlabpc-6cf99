@@ -91,7 +91,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Sicurezza informatica per tutti
-        subtitle: The Job Stuff
+        subtitle: Proteggiti dalle minacce
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
