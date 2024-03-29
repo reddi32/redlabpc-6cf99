@@ -91,10 +91,9 @@ sections:
               borderRadius: x-large
       - title: Sicurezza informatica per tutti
         subtitle: Proteggiti dalle minacce
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Implementa misure di sicurezza avanzate come la crittografia dei dati,
+          l'autenticazione a due fattori e la VPN.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
