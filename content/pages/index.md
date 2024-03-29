@@ -33,7 +33,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/redlabpc_blog.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
