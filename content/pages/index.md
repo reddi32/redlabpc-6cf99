@@ -96,7 +96,7 @@ sections:
           Implementa misure di sicurezza avanzate come la crittografia dei dati,
           l'autenticazione a due fattori e la VPN.
         image:
-          url: /images/icon2.svg
+          url: /images/encrypted.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
