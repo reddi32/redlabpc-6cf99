@@ -121,7 +121,7 @@ sections:
           applicazioni web, la programmazione in Python e l'amministrazione di
           sistemi.
         image:
-          url: /images/icon3.svg
+          url: /images/terminal.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
