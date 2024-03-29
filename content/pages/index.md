@@ -115,10 +115,10 @@ sections:
         type: FeaturedItem
       - title: Progetti e consigli pratici
         subtitle: 'Impara, crea, risolvi'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Sviluppa le tue competenze con progetti avanzati, come la creazione di
+          applicazioni web, la programmazione in Python e l'amministrazione di
+          sistemi.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
