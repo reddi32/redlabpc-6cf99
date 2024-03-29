@@ -64,10 +64,9 @@ sections:
       - type: FeaturedItem
         title: Guida introduttiva a Linux
         subtitle: Impara le basi di Linux
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Impara le basi del pinguino: installazione, comandi, personalizzazione
+          e tanto altro.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
