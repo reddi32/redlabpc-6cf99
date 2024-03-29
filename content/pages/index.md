@@ -65,8 +65,8 @@ sections:
         title: Guida introduttiva a Linux
         subtitle: Impara le basi di Linux
         text: >
-          Muovi i primi passi nel mondo del pinguino: installazione, comandi,
-          personalizzazione e software.
+          Impara le basi del pinguino: installazione, comandi,
+          personalizzazione, software e tanto altro ancora.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
