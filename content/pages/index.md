@@ -116,7 +116,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Progetti e consigli pratici
-        subtitle: Faster
+        subtitle: 'Impara, crea e risolvi con Linux'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
