@@ -131,7 +131,7 @@ sections:
     actions:
       - label: Blog
         altText: ''
-        url: /
+        url: /blog
         showIcon: false
         icon: arrowRight
         iconPosition: right
