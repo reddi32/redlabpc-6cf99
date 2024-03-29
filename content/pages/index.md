@@ -65,8 +65,8 @@ sections:
         title: Guida introduttiva a Linux
         subtitle: Impara le basi di Linux
         text: >
-          Impara le basi del pinguino: installazione, comandi,
-          personalizzazione, software e tanto altro ancora.
+          Impara cos'è Linux, come funziona e quali sono i suoi vantaggi
+          rispetto ad altri sistemi operativi.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
