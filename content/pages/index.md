@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Redlabpc
+      text: Redlabpc Blog
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
