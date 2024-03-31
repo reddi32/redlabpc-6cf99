@@ -176,7 +176,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Una potente interfaccia per il tuo computer
-    text: "Il terminale di Linux è un'interfaccia a riga di comando che ti permette di controllare il tuo computer in modo potente e preciso. <br> Con il terminale, puoi:\n*   Eseguire comandi:\_esegui programmi, gestisci file e cartelle, configura il tuo sistema e molto altro ancora.\n\n*   Automatizzare le attività:\_crea script per automatizzare le attività ripetitive e risparmia tempo e fatica.\n\n*   Risolvere problemi:\_diagnostica e risolvi problemi tecnici con il tuo computer.\n\n*   Accedere a funzionalità avanzate:\_sfrutta la potenza del sistema operativo Linux per fare cose che non sono possibili con l'interfaccia grafica.\n"
+    text: "Il terminale di Linux è un'interfaccia a riga di comando che ti permette di controllare il tuo computer in modo potente e preciso. <br> Con il terminale, puoi:\n\nEseguire comandi:\_esegui programmi, gestisci file e cartelle, configura il tuo sistema e molto altro ancora.\n\nAutomatizzare le attività:\_crea script per automatizzare le attività ripetitive e risparmia tempo e fatica.\n\nRisolvere problemi:\_diagnostica e risolvi problemi tecnici con il tuo computer.\n\nAccedere a funzionalità avanzate:\_sfrutta la potenza del sistema operativo Linux per fare cose che non sono possibili con l'interfaccia grafica.\n"
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
