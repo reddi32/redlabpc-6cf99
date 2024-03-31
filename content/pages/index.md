@@ -169,7 +169,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: 'Il terminale di Linux: una potente interfaccia per il tuo computer'
       color: text-dark
       styles:
         self:
