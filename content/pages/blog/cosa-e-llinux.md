@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/linux.png
-  altText: Thumbnail
+  altText: Linux
   elementId: ''
   styles:
     self:
