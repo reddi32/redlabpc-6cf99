@@ -59,7 +59,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
-colors: bg-neutral-fg-dark
+colors: bg-neutralAlt-fg-dark
 styles:
   self:
     flexDirection: col
