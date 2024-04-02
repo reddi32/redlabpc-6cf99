@@ -60,7 +60,8 @@ seo:
     Linux è un sistema operativo open source e gratuito, basato su Unix, che
     offre un'ampia gamma di funzionalità e vantaggi per gli utenti di computer
   addTitleSuffix: false
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 colors: bg-light-fg-dark
 styles:
   self:
