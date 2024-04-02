@@ -225,7 +225,7 @@ sections:
 seo:
   metaTitle: Blog Redlabpc
   metaDescription: ''
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/logo-dark.svg
   type: Seo
 type: PageLayout
 ---
