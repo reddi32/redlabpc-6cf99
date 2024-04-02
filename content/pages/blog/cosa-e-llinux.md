@@ -56,7 +56,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Cos'è Linux?
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Linux è un sistema operativo open source e gratuito, basato su Unix, che
+    offre un'ampia gamma di funzionalità e vantaggi per gli utenti di computer
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
