@@ -8,7 +8,7 @@ excerpt: >-
   un'ampia gamma di funzionalità e vantaggi 
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/linux.png
   altText: Thumbnail
   elementId: ''
   styles:
