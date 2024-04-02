@@ -63,6 +63,7 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:title'
+      content: Linux
 colors: bg-light-fg-dark
 styles:
   self:
