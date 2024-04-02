@@ -33,7 +33,7 @@ styles:
 seo:
   metaTitle: Blog  Redlabpc
   metaDescription: ''
-  socialImage: /images/img-placeholder.svg
+  socialImage: /images/logo-dark.svg
   type: Seo
   addTitleSuffix: false
 type: PostFeedLayout
