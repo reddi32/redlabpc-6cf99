@@ -35,6 +35,7 @@ seo:
   metaDescription: ''
   socialImage: /images/img-placeholder.svg
   type: Seo
+  addTitleSuffix: false
 type: PostFeedLayout
 bottomSections: []
 postFeed:
