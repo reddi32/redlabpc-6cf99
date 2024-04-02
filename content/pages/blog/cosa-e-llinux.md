@@ -17,6 +17,7 @@ featuredImage:
         - pl-0
         - pb-0
         - pr-0
+  url: /images/linux.png
 bottomSections:
   - type: DividerSection
     title: Divider
