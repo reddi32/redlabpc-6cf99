@@ -8,7 +8,6 @@ excerpt: >-
   un'ampia gamma di funzionalità e vantaggi 
 featuredImage:
   type: ImageBlock
-  url: /images/linux.png
   altText: Linux
   elementId: ''
   styles:
