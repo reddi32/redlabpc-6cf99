@@ -4,8 +4,8 @@ title: Cos'è Linux?
 date: '2024-04-02'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Linux è un sistema operativo open source e gratuito, basato su Unix, che offre
+  un'ampia gamma di funzionalità e vantaggi 
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
