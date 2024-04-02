@@ -227,5 +227,6 @@ seo:
   metaDescription: ''
   socialImage: /images/logo-dark.svg
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 ---
