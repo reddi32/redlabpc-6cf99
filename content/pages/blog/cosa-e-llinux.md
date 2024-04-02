@@ -66,6 +66,7 @@ seo:
       content: Linux
     - type: MetaTag
       property: 'og:title'
+      content: Unix
 colors: bg-light-fg-dark
 styles:
   self:
