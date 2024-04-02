@@ -55,7 +55,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Cos'è Linux?
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
